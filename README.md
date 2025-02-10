@@ -6,7 +6,7 @@
 | Student name | Student ID |
 | --- | --- |
 | Frederik Bomheuer | 176811 | 
-| #NAME# | #ID# |
+| Morten Smedegaard | 176561 |
 | #NAME# | #ID# |
 
 ***
