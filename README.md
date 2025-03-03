@@ -8,6 +8,7 @@
 | Frederik Bomheuer | 176811 | 
 | Morten Smedegaard | 176561 |
 | Victor Berstrand | 176868 |
+| Johannes Lind | 146276 |
 
 ***
 
